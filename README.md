@@ -10,7 +10,7 @@
 ---
 
 ## 🎸 About Me
-Hey! I'm **Emre Dilmen**, **Frontend Geliştirme**, **Mobil Uygulama Geliştirme** ve **Backend Entegrasyonları** üzerine çalışan bir yazılım geliştiriciyim. Özellikle **Flutter, Firebase ve Node.js** teknolojileriyle modern ve kullanıcı dostu uygulamalar geliştirmekten keyif alıyorum.
+Hey! It's **Emre Dilmen**, I'm a **Full Stack Developer** & **Musician** üzerine çalışan bir yazılım geliştiriciyim. Özellikle **Flutter, Firebase ve Node.js** teknolojileriyle modern ve kullanıcı dostu uygulamalar geliştirmekten keyif alıyorum.
 
 💡 Kullanıcı deneyimini ön planda tutan, hızlı ve etkili çözümler üretmeyi seviyorum.  
 🌱 **Şu anda**: Flutter ve Firebase üzerine odaklanıyorum.  
