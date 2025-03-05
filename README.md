@@ -12,12 +12,12 @@
 ## 🎸 About Me
 Hey! It's **Emre Dilmen**, I'm a **Full Stack Developer** & **Musician**. You can take a look at my **projects**.
 
-## 📫 Contact Me
-[emredilmen14@gmail.com](mailto:emredilmen14@gmail.com)
-
 ```javascript
 console.log("Locked in forever🎯")
 ```
+
+## 📫 Contact Me
+[emredilmen14@gmail.com](mailto:emredilmen14@gmail.com)
 
 ---
 
