@@ -10,11 +10,10 @@
 ---
 
 ## 🎸 About Me
-Hey! It's **Emre Dilmen**, I'm a **Full Stack Developer** & **Musician** üzerine çalışan bir yazılım geliştiriciyim. Özellikle **Flutter, Firebase ve Node.js** teknolojileriyle modern ve kullanıcı dostu uygulamalar geliştirmekten keyif alıyorum.
+Hey! It's **Emre Dilmen**, I'm a **Full Stack Developer** & **Musician**. You can take a look at my **projects**.
 
-💡 Kullanıcı deneyimini ön planda tutan, hızlı ve etkili çözümler üretmeyi seviyorum.  
-🌱 **Şu anda**: Flutter ve Firebase üzerine odaklanıyorum.  
-📫 **Contact Me**: [emredilmen14@gmail.com](mailto:emredilmen14@gmail.com)
+##📫 **Contact Me**
+[emredilmen14@gmail.com](mailto:emredilmen14@gmail.com)
 
 ```javascript
 console.log("Locked in forever🎯")
