@@ -35,9 +35,9 @@ console.log("Locked in forever🎯")
 ---
 
 ## 🌟 Personal Interests
-🔹 **Frontend Geliştirme**: HTML, CSS ve JavaScript ile modern ve responsive web arayüzleri tasarlamak.  
-🔹 **Mobil Uygulama Geliştirme**: Flutter ve Dart kullanarak cross-platform mobil uygulamalar geliştirmek.  
-🔹 **Backend Entegrasyonu**: Firebase ve Node.js ile backend çözümleri oluşturmak ve entegre etmek.  
+🔹 **Full Stack Development**: Developing user-friendly websites using my tech stack.
+🔹 **Playing Guitar**: I love playing guitar and performing at shows.
+🔹 **Producing Music**: Just started to learn how to produce, mixing and mastering music.
 
 ---
 
