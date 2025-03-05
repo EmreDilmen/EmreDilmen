@@ -35,9 +35,9 @@ console.log("Locked in forever🎯")
 ---
 
 ## 🌟 Personal Interests
-🔹 **Full Stack Development**: Developing user-friendly websites using my tech stack.
-🔹 **Playing Guitar**: I love playing guitar and performing at shows.
-🔹 **Producing Music**: Just started to learn how to produce, mixing and mastering music.
+🔹 **Full Stack Development**: Developing user-friendly websites using my tech stack.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+🔹 **Playing Guitar**: I love playing guitar and performing at shows.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+🔹 **Producing Music**: Just started to learn how to produce, mixing and mastering music.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 ---
 
