@@ -9,8 +9,8 @@
 
 ---
 
-## 🦋 Hakkımda
-Merhaba! Ben **Beyza Kambur**, **Frontend Geliştirme**, **Mobil Uygulama Geliştirme** ve **Backend Entegrasyonları** üzerine çalışan bir yazılım geliştiriciyim. Özellikle **Flutter, Firebase ve Node.js** teknolojileriyle modern ve kullanıcı dostu uygulamalar geliştirmekten keyif alıyorum.
+## 🎸 About Me
+Hey! I'm **Emre Dilmen**, **Frontend Geliştirme**, **Mobil Uygulama Geliştirme** ve **Backend Entegrasyonları** üzerine çalışan bir yazılım geliştiriciyim. Özellikle **Flutter, Firebase ve Node.js** teknolojileriyle modern ve kullanıcı dostu uygulamalar geliştirmekten keyif alıyorum.
 
 💡 Kullanıcı deneyimini ön planda tutan, hızlı ve etkili çözümler üretmeyi seviyorum.  
 🌱 **Şu anda**: Flutter ve Firebase üzerine odaklanıyorum.  
@@ -35,17 +35,17 @@ console.log("Locked in forever🎯")
 
 ---
 
-## 🌟 İlgi Alanlarım
+## 🌟 Personal Interests
 🔹 **Frontend Geliştirme**: HTML, CSS ve JavaScript ile modern ve responsive web arayüzleri tasarlamak.  
 🔹 **Mobil Uygulama Geliştirme**: Flutter ve Dart kullanarak cross-platform mobil uygulamalar geliştirmek.  
 🔹 **Backend Entegrasyonu**: Firebase ve Node.js ile backend çözümleri oluşturmak ve entegre etmek.  
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emredilmen&show_icons=true&theme=tokyonight" alt="GitHub İstatistiklerim"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emredilmen&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emredilmen&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=emredilmen&theme=tokyonight" alt="GitHub Streak"/> -->
 </p>
 
 
