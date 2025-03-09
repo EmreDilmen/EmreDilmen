@@ -10,7 +10,7 @@
 ---
 
 ## 🎸 About Me
-Hey! It's **Emre Dilmen**, I'm a **Full Stack Developer** & **Musician**. You can take a look at my **projects**.
+Hey! It's **Emre Dilmen**, I'm a **Full Stack Developer** & **Musician**. You can check out my **projects**.
 
 ```javascript
 console.log("Locked in forever🎯")
