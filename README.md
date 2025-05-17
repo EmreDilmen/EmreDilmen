@@ -31,6 +31,7 @@ console.log("Locked in forever🎯")
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-Next.js-393332?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js"/>
 </p>
+
 ---
 
 ## 🌟 Personal Interests
