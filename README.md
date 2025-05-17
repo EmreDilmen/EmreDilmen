@@ -28,9 +28,9 @@ console.log("Locked in forever🎯")
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/-React.js-02569B?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+  <img src="https://img.shields.io/badge/-Next.js-393332?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Next.js-393332?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js"/>
 </p>
 
 ---
